@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Denis 
 
-I am a student of ***Informatics Engineering*** at **Universitas Kristen Satya Wacana***.<br>
+I am a student of ***Informatics Engineering*** at **Universitas Kristen Satya Wacana**.<br>
 This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to connect with me.
 
 - 🔭 I’m currently studying at **Universitas Kristen Satya Wacana**
