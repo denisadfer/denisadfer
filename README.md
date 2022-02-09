@@ -1,7 +1,11 @@
-### Halo semua 👋
+## Hi 👋 I'm Denis 
 
-Perkenalkan nama saya **Denis Aditya Fernanda**. Saya seorang **Mahasiswa** di **Universitas Kristen Satya Wacana**.
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/denisadfer/)ku ya.
+I am a student of ***Informatics Engineering*** at ***Universitas Kristen Satya Wacana***.<br>
+This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to connect with me.
+
+- 🔭 I’m currently studying at ***Universitas Kristen Satya Wacana***
+- 🌱 I’m currently learning about Cloud Computing at Bangkit 2022.
+- 📫 How to reach me: [denisaditya80@gmail.com](mailto:denisaditya80@gmail.com)
 
 <!-- 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
