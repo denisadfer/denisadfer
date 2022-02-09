@@ -1,8 +1,8 @@
 ### Halo semua 👋
 
-Perkenalkan nama saya **Denis ADitya Fernanda**.\
+Perkenalkan nama saya **Denis Aditya Fernanda**.
 
-Saya seorang **Mahasiswa** di **Universitas Kristen Satya Wacana**.\
+Saya seorang **Mahasiswa** di **Universitas Kristen Satya Wacana**.
 <!-- 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
