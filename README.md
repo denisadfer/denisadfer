@@ -7,6 +7,16 @@ This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to co
 - 🌱 I’m currently learning about ***Cloud Computing*** at **Bangkit 2022**.
 - 📫 How to reach me: [denisaditya80@gmail.com](mailto:denisaditya80@gmail.com)
 
+<!-- ![Denis's github stats](https://github-readme-stats.vercel.app/api?username=denisadfer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisadfer)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="left">
+<a href="https://github.com/denisadfer">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denisadfer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denisadfer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!-- 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
