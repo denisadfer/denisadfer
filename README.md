@@ -14,6 +14,10 @@ This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to co
 </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=denisadfer&color=blue)
+<!-- 
+<img src="https://camo.githubusercontent.com/587cc3d3c72b574822f1021d1f5435b72d1e2d1c8a6c6805802b29ab0b0d5741/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d79756c697573697573312e79756c69757369757331"/> -->
+
 <!-- 
 **denisadfer/denisadfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
