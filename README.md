@@ -4,7 +4,7 @@ I am a student of ***Informatics Engineering*** at **Universitas Kristen Satya W
 This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to connect with me.
 
 - 🔭 I’m currently studying at **Universitas Kristen Satya Wacana**
-- 🌱 I’m currently learning about ***Cloud Computing*** at **Bangkit 2022**.
+- 🌱 I’m currently learning about ***Cloud Computing*** and ***Javascript***.
 - 📫 How to reach me: [denisaditya80@gmail.com](mailto:denisaditya80@gmail.com)
 
 <p align="left">
