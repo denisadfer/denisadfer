@@ -1,11 +1,11 @@
-## Hi 👋 I'm Denis 
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Denis 
 
 I am a student of ***Informatics Engineering*** at **Universitas Kristen Satya Wacana**.<br>
 This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to connect with me.
 
 - 🔭 I’m currently studying at **Universitas Kristen Satya Wacana**
 - 🌱 I’m currently learning about ***Cloud Computing*** and ***Javascript***.
-- 📫 How to reach me: [denisaditya80@gmail.com](mailto:denisaditya80@gmail.com)
+- 📫 How to reach me: [My Contact](biolinky.co/denisadfer)
 
 <p align="left">
 <a href="https://github.com/denisadfer">
