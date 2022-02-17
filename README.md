@@ -5,7 +5,7 @@ This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to co
 
 - 🔭 I’m currently studying at **Universitas Kristen Satya Wacana**
 - 🌱 I’m currently learning about ***Cloud Computing*** and ***Javascript***.
-- 📫 How to reach me: [My Contact](biolinky.co/denisadfer)
+- 📫 How to reach me: [My Contact](https://biolinky.co/denisadfer)
 
 <p align="left">
 <a href="https://github.com/denisadfer">
