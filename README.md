@@ -1,10 +1,10 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Denis 
 
-I am a student of ***Informatics Engineering*** at **Universitas Kristen Satya Wacana**.<br>
+I am a student of ***Computer Science/Informatics*** at **Universitas Kristen Satya Wacana**.<br>
 This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to connect with me.
 
-- 🔭 I’m currently studying at **Universitas Kristen Satya Wacana**
-- 🌱 I’m currently learning about ***Cloud Computing*** and ***Javascript***.
+- 🔭 I’m currently doing an internship at **PT. Formulatrix Indonesia**
+- 🌱 I’m currently learning about ***Cloud Computing***.
 - 📫 How to reach me: [My Contact](https://biolinky.co/denisadfer)
 
 <p align="left">
