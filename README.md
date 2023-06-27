@@ -3,8 +3,8 @@
 I am a student of ***Computer Science/Informatics*** at **Universitas Kristen Satya Wacana**.<br>
 This is my [Linkedin](https://www.linkedin.com/in/denisadfer/) if you want to connect with me.
 
-- 🔭 I’m currently doing an internship at **PT. Formulatrix Indonesia**
-- 🌱 I’m currently learning about ***Cloud Computing***.
+<!-- - 🔭 I’m currently doing an internship at **PT. Formulatrix Indonesia**
+- 🌱 I’m currently learning about ***Cloud Computing***. -->
 - 📫 How to reach me: [My Contact](https://biolinky.co/denisadfer)
 
 <p align="left">
